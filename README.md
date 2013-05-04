@@ -10,6 +10,7 @@ HOW TO USE IT
 
 [Use the source](https://github.com/fethica/impress_ar.js), Luke ;)
 
+### [Download impress_ar.js.zip](http://fethica.github.io/impress_ar.js/zip/impress_ar.js.zip)
 
 
 EXAMPLES AND OTHER LEARNING RESOURCES
@@ -19,7 +20,7 @@ EXAMPLES AND OTHER LEARNING RESOURCES
 
 [impress_ar.js demo](http://fethica.github.com/impress_ar.js) by [@fethica](http://twitter.com/fethica)
 
-### English demo (Official)
+### English (Official) demo
 
 [impress.js demo](http://bartaz.github.com/impress.js) by [@bartaz](http://twitter.com/bartaz)
 
@@ -48,6 +49,13 @@ enough to run it, so it should work quite well on iPad (iOS 5, or iOS 4 with HTM
 Blackberry Playbook.
 
 
+ABOUT THE NAME
+----------------
+
+impress.js name in [courtesy of @skuzniak](http://twitter.com/skuzniak/status/143627215165333504).
+
+It's an (un)fortunate coincidence that a Open/LibreOffice presentation tool is called Impress ;)
+
 
 LICENSE
 ---------
@@ -55,5 +63,10 @@ LICENSE
 Copyright 2011-2012 Bartek Szopka
 
 Released under the MIT and GPL Licenses.
+
+ARABIC VERSION
+----------------
+
+by [Fethi El Hassasna](http://fethica.com) | [@fethica](http://twitter.com/fethica)
 
 
